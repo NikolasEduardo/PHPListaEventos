@@ -1,0 +1,10 @@
+nome do banco: inscricao
+
+nome da tabela: cadastrados
+
+nome das colunas:
+
+id	PRIMARY		a_i
+nome	VARCHAR(100)
+rg	VARCHAR(15)	UNIQUE
+escolha	VARCHAR(10)
